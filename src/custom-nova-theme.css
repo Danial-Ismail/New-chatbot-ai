@@ -1,0 +1,10 @@
+.custom-ai-chat-comp.nluxc-root.nluxc-theme-nova {
+    --nluxc-button-background-color: #1f6adb;
+    --nluxc-button-border-color: #1f6adb;
+
+    --nluxc-button-active-background-color: #3474d3;
+    --nluxc-button-active-border-color: #3474d3;
+
+    --nluxc-input-border-color: rgba(0, 0, 0, 0.315);
+    --nluxc-input-active-border-color: rgba(0, 0, 0, 0.753);
+}
